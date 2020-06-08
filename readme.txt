@@ -4,3 +4,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 The no-ff test.
 Test stash and bug.
+Test sourceTree.
